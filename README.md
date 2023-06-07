@@ -7,28 +7,28 @@ Tutorials and programming exercises for learning Quantum Annealing.
 
 ## Lecture 1
 
-Combinatorial Optimization Problems
-Mathematical Definition
-Max-Cut Problem
-Penalty Method
-Travelling Salesman Problem
-Graph Coloring 
+- Combinatorial Optimization Problems
+- Mathematical Definition
+- Max-Cut Problem
+- Penalty Method
+- Travelling Salesman Problem
+- Graph Coloring 
 
 ## Lecture 2
 
-Higher Order Models
-Ising Model 
-Ising to QUBO Conversion
-Binary Quadratic Model
-BQM: Conversion Between Formulations
-BQM: Max-Cut Problem 
+- Higher Order Models
+- Ising Model 
+- Ising to QUBO Conversion
+- Binary Quadratic Model
+- BQM: Conversion Between Formulations
+- BQM: Max-Cut Problem 
 
 ## Lecture 3 
 
-Simulated Annealing
-BQM: Travelling Salesman Problem 
-BQM: Graph Coloring
-Quantum Annealing 
-Quantum Annealing on D-Wave
+- Simulated Annealing
+- BQM: Travelling Salesman Problem 
+- BQM: Graph Coloring
+- Quantum Annealing 
+- Quantum Annealing on D-Wave
 
 
